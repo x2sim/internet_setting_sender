@@ -11,7 +11,7 @@ Kivy-Garden==0.1.4
 lxml==4.5.1
 numpy==1.18.4
 opencv-python==4.2.0.34
-Pillow==7.1.2
+Pillow==8.1.1
 Pygments==2.6.1
 python-docx==0.8.10
 python-dotenv==0.13.0
