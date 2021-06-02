@@ -16,4 +16,4 @@ Pygments==2.6.1
 python-docx==0.8.10
 python-dotenv==0.13.0
 requests==2.23.0
-urllib3==1.25.9
+urllib3==1.26.5
